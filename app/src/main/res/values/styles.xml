@@ -1,0 +1,12 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+    </style>
+        <!-- Customize your theme here. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+</style>
+    <color name="Fondo">#21af8a</color>
+
+
+    </resources>
